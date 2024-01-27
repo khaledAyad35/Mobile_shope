@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Mobile_shope/static/css/main.fd317f50.css",
-    "main.js": "/Mobile_shope/static/js/main.d564324f.js",
+    "main.js": "/Mobile_shope/static/js/main.f42501f8.js",
     "static/media/1.jpg": "/Mobile_shope/static/media/1.624cc2e56371b141c842.jpg",
     "static/media/3.jpg": "/Mobile_shope/static/media/3.03ba6555ff04b91ccaf9.jpg",
     "index.html": "/Mobile_shope/index.html",
     "main.fd317f50.css.map": "/Mobile_shope/static/css/main.fd317f50.css.map",
-    "main.d564324f.js.map": "/Mobile_shope/static/js/main.d564324f.js.map"
+    "main.f42501f8.js.map": "/Mobile_shope/static/js/main.f42501f8.js.map"
   },
   "entrypoints": [
     "static/css/main.fd317f50.css",
-    "static/js/main.d564324f.js"
+    "static/js/main.f42501f8.js"
   ]
 }
