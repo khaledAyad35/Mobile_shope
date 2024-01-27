@@ -30,7 +30,7 @@ const Cart = () => {
                 <div className='cart-empty'>
                     <p>Your cart is empty</p>
                     <div className='start-shopping'>
-                        <Link to="/" >
+                        <Link to="/Mobile_shope" >
                             <span>Start Shopping</span>
                         </Link>
 
