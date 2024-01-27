@@ -16,7 +16,7 @@ const NavBar = () => {
 
     return (
         <nav className='nav-bar'>
-            <Link to="/">
+            <Link to="/Mobile_shope">
                 <h2>Mobile Shop</h2>
             </Link>
             <Link to="/cart">
